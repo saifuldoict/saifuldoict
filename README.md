@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saifuldoict" alt="saifuldoict" /></a> </p>
 
-- 🔭 I’m currently working on **ostad**
+- 🔭 I’m currently working on **Department of ICT**
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👯 I’m looking to collaborate on **ostad**
+- 👯 I’m looking to collaborate on **Programming Hero**
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **saifuldoict@gmail.com**
+- 📫 How to reach me **saifulnhk@gmail.com**
 
 - ⚡ Fun fact **I Think I am Funny**
 
