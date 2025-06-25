@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Department of ICT**
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **MERN STACK from Programming Hero batch # 12**
 
 - 👯 I’m looking to collaborate on **Programming Hero**
 
