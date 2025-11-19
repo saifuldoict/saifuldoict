@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-banner-image-url-here" alt="Banner" width="100%" />
+  <img src="[https://your-banner-image-url-her](https://ibb.co/Z6RRJt3S)e" alt="Banner" width="100%" />
 </p>
 
 <!-- Profile Image -->
