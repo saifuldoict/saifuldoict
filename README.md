@@ -80,12 +80,12 @@ I create clean, responsive, and scalable applications with strong attention to u
 ### 🔹 **Project 1 – Your Project Title**
 👉 Search your desire movie here.... 
 🔗 Live: https://monumental-mousse-8c68f6.netlify.app/ 
-📦 Code: https://github.com/YOUR_GITHUB_USERNAME/project-repo  
+📦 Code: https://github.com/saifuldoict/Assignment_10_client
 
 ### 🔹 **Project 2 – Your Project Title**
 👉 Pet Winter Care about  
 🔗 Live  https://pet-care-6cf1c.web.app/
-📦 Code  
+📦 Code https://github.com/saifuldoict/Pet-Care  
 
 _Add more later if you want._
 
