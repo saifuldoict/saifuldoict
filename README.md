@@ -78,12 +78,12 @@ I create clean, responsive, and scalable applications with strong attention to u
 ## 🚀 Featured Projects
 
 ### 🔹 **Project 1 – Your Project Title**
-👉 Short description of what it does  
+👉 Search your desire movie here.... 
 🔗 Live: https://monumental-mousse-8c68f6.netlify.app/ 
 📦 Code: https://github.com/YOUR_GITHUB_USERNAME/project-repo  
 
 ### 🔹 **Project 2 – Your Project Title**
-👉 Short description  
+👉 Pet Winter Care about  
 🔗 Live  https://pet-care-6cf1c.web.app/
 📦 Code  
 
