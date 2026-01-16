@@ -1,12 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/LdD8zbhM/banner.png" alt="Banner" width="100%" height="35" />
+  <img src="https://i.ibb.co/LdD8zbhM/banner.png" alt="Banner" width="100%" height="100%" />
 </p>
 
-<!-- Profile Image -->
-<p align="center">
-  <img src="https://i.ibb.co/LdD8zbhM/banner.png" width="140" style="border-radius: 50%;" />
-</p>
+
 
 <h1 align="center">Hi, I'm Md Saiful Islam 👋</h1>
 <h3 align="center"> Web Developer | MERN + MySQL</h3>
