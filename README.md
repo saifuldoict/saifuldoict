@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://ibb.co.com/LdD8zbhM" alt="Banner" width="100%" />
+  <img src="https://ibb.co.com/LdD8zbhM" alt="image" width="90%"/>
 </p>
 
 <!-- Profile Image -->
@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Md Saiful Islam 👋</h1>
-<h3 align="center">Frontend Web Developer | MERN + MySQL</h3>
+<h3 align="center"> Web Developer | MERN + MySQL</h3>
 
 ---
 
