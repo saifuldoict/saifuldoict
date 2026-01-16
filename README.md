@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://ibb.co.com/LdD8zbhM" alt="image" width="90%"/>
+  <img src="https://i.ibb.co/LdD8zbhM/banner.png" alt="Banner" width="90%" />
 </p>
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://ibb.co.com/LdD8zbhM" width="140" style="border-radius: 50%;" />
+  <img src="https://i.ibb.co/LdD8zbhM/banner.png" width="140" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hi, I'm Md Saiful Islam 👋</h1>
@@ -78,23 +78,21 @@ I create clean, responsive, and scalable applications with strong attention to u
 ## 🚀 Featured Projects
 
 ### 🔹 **Project 1 – Your Project Title**
-👉 Search your desire movie here.... 
-🔗 Live: https://monumental-mousse-8c68f6.netlify.app/ 
+👉 Search your desired movie here  
+🔗 Live: https://monumental-mousse-8c68f6.netlify.app/  
 📦 Code: https://github.com/saifuldoict/Assignment_10_client
 
 ### 🔹 **Project 2 – Your Project Title**
 👉 Pet Winter Care about  
-🔗 Live  https://pet-care-6cf1c.web.app/
-📦 Code https://github.com/saifuldoict/Pet-Care  
-
-_Add more later if you want._
+🔗 Live: https://pet-care-6cf1c.web.app/  
+📦 Code: https://github.com/saifuldoict/Pet-Care  
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="[_blank](https://www.linkedin.com/in/md-saiful-islam-259ab8278/)">
+  <a href="https://www.linkedin.com/in/md-saiful-islam-259ab8278/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40">
   </a>
 
@@ -102,12 +100,11 @@ _Add more later if you want._
     <img src="https://skillicons.dev/icons?i=gmail" height="40">
   </a>
 
-  <a href="https://facebook.com/YOUR_FACEBOOK_LINK" target="[_blank](https://www.facebook.com/saifulnhk)">
+  <a href="https://facebook.com/saifulnhk" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" height="40">
   </a>
 </p>
 
 ---
 
-### ⭐ **Thanks for visiting my profile!**  
-Feel free to check out my repositories and drop a ⭐ if you like my work 😊
+### ⭐ **Thanks for visiting my profile!**
