@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://saiful-islam23436.imgbb.com/" alt="Banner" width="100%" />
+  <img src="https://ibb.co.com/LdD8zbhM" alt="Banner" width="100%" />
 </p>
 
 <!-- Profile Image -->
